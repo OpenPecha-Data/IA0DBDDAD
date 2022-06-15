@@ -1,0 +1,27 @@
+id: IA0DBDDAD
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-12T07:29:07+00:00'
+last_modified: '2022-06-15T15:19:42.149320+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W00KG010265
+  title: གོམ་སྟབས་དང་ཞབས་རྗེས་
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
+  base:
+    B2C2:
+      image_group_id: I1KG570
+      title: ''
+      total_pages: 378
+      order: 1
+      base_file: B2C2.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
